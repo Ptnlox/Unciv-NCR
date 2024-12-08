@@ -22,7 +22,7 @@
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "The Land Of Great People",
-		"uniques": ["[+100]% culture [in the Capital]","[+50]% culture [in all cities]","[+50]% Strength <vs [Barbarians]>","[Great People] appear [50]% faster"],
+		"uniques": ["[+100]% culture [Capital]","[+50]% culture [in all cities]","[+50]% Strength <vs [Barbarians]>","[Great People] appear [50]% faster"],
 		"cities": ["Shady Sands","Dayglow","Maxson","The Hub","Los Angeles"],
     "spyNames": ["Preston Beet", "Amanda Hale", "Victor Losten", "Ronald Benade", "Diesel", "Jane Digger", "Peter Cowpog", "Jundy", "Mike Deadcolt", "Katerine Roshan"]
   }
