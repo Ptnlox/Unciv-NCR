@@ -1,0 +1,29 @@
+[
+  {
+		"name": "NCR",
+		"leaderName": "Aradesh",
+		"adjective": ["NCR"],
+		"startBias": ["[Desert]"],
+		"personality": "Aradesh",
+
+		"startIntroPart1": "Aradesh, the door of Vault 15 is opened, people are determined to enter the new world and only you can lead them in the bright future!",
+		"startIntroPart2": "Will you protect them from raiders and any other dangers of the Wasteland?",
+
+		"declaringWar": "The negotiations are over, from now on you are an enemy of our people!",
+		"attacked": "Thoughtful actions are definitely not your strength.",
+		"defeated": "I hope future generations will record this moment in history as a great tragedy.",
+		"introduction": "My people greet you and hope for your prudence.",
+
+		"neutralHello": "Greetings.",
+		"hateHello": "For you showing up to talk to me is a bad idea.", 
+
+		"tradeRequest": "I have a great offer.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "The Land Of Great People",
+		"uniques": ["[+100%] Culture [in Capital]","[+50%] Culture [in all cities]","[+50%] Strength <vs [Barbarians]>","All [Great People] appear [50%] faster"],
+		"cities": ["Shady Sands","Dayglow","Maxson","The Hub","Los Angeles"],
+    "spyNames": ["Preston Beet", "Amanda Hale", "Victor Losten", "Ronald Benade", "Diesel", "Jane Digger", "Peter Cowpog", "Jundy", "Mike Deadcolt", "Katerine Roshan"]
+  }
+]
