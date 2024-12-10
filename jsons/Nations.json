@@ -28,7 +28,7 @@
 			    "[+100]% [Culture] [in Capital]",
 			    "[+50]% Strength <vs [Barbarians]>",
 			    "[+50]% Great Person generation [not in Capital]",
-			    "[+100]% Great Person generation [in Capital]"]
+			    "[+100]% Great Person generation [in Capital]",
 		"cities": ["Shady Sands","Dayglow","Maxson","The Hub","Los Angeles"],
 	        "spyNames": ["Preston Beet", "Amanda Hale", "Victor Losten", "Ronald Benade", "Diesel", "Jane Digger", "Peter Cowpog", "Jundy", "Mike Deadcolt", "Katerine Roshan"]
   }
